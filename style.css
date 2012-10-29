@@ -1,0 +1,162 @@
+#login {
+	position:relative;
+	float:right;
+	font-size:14px;
+}
+
+#createUser {
+	position:relative;
+	float:left;
+	font-size:14px;
+}
+
+body {
+	background: url(images/fabric-pattern.png);
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, Sans-Serif;
+}
+
+
+.user h2 {
+	text-align:center;
+	margin-top:200px;
+}
+
+.user p {
+	text-align:center;
+	margin-top:50px;
+}
+
+.img {
+	width:100px;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 50px;
+}
+
+#wrapper {
+	width: 1023px;
+	margin: 80px auto;
+	box-shadow: 0px 2px 10px #333;
+	background-color: #E8E6E7;
+}
+
+#header {
+	text-align: center;
+	line-height: 249px;
+	background: url(images/header1.jpg) #E8E6E7;
+	clear:right;
+}
+
+#header h1 {
+	margin: 0;
+	padding: 0;
+	clear:both;
+}
+
+#header a {
+	text-decoration: none;
+	color: #E8E6E7;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu li {
+	float: left;
+	border-bottom: 1px solid #949494;
+}
+
+#menu li a {
+	line-height: 40px;
+	width: 341px;
+	display: block;
+	background: #E8E6E7;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #000;
+}
+
+#menu li a:hover {
+	background: #B8B4B5;
+}
+
+#content {
+	position:relative;
+	float:left;
+	width: 1023px;
+	background-color: #E8E6E7;
+}
+
+#content h2, h3 {
+	text-align: center;
+}
+
+
+#catDesc{
+	text-align: center;
+}
+
+#loginpage {
+	width:600px;
+	border: 10px solid #fff;
+	border-radius: 10px;
+	box-shadow: 0 2px 8px #333;
+	margin: 100px auto;
+	background-color: #fff;
+}
+
+#loginpage form {
+	margin-left:30px;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+
+#footer {
+	background: #E8E6E7;
+	border-top: 1px solid #949494;
+	line-height: 40px;
+	text-align: center;
+	font-size: small;
+	clear: left;
+}
+
+.box { 
+	width:600px;
+	border: 10px solid #fff;
+	border-radius: 10px;
+	box-shadow: 0 2px 8px #333;
+	margin: 10px auto;
+	background-color: #fff;
+}
+
+.box img {
+	width:100%;
+	height:auto;
+	margin:auto;
+}
+
+.boxImg {
+
+	position:relative;
+	float:left;
+	margin:auto;
+	border: 10px solid #fff;
+	border-radius: 10px;
+	box-shadow: 0 2px 8px #333;
+	margin: 50px 10px 50px 50px;
+	background-color: #fff;
+}
+
+.boxImg img {
+	height:150px;
+	width:auto;
+	margin:auto;
+}
+	 
